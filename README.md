@@ -25,5 +25,6 @@ the stack, from model-facing logic to the databases and APIs that serve it.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BalakrishnaSM&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=BalakrishnaSM&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
