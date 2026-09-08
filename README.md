@@ -1,6 +1,8 @@
 # 💫 About Me:
-Computer Science fresher skilled in C/C++, Java, Python, SQL, and full-stack development with React, Vue, and <br>TypeScript. Passionate about AI/ML, Data Science, and Generative AI with hands-on projects in EdTech, HealthTech, <br>and Sustainable Tech, eager to contribute as a Software Developer or AI Engineer.
-
+Computer Science graduate (9.67/10 CGPA) with a strong foundation in data structures, algorithms, and
+software engineering, and hands-on experience building end-to-end systems — from hybrid RAG pipelines with
+explicit abstention mechanisms to FastAPI-based backend services and REST APIs. Comfortable working across
+the stack, from model-facing logic to the databases and APIs that serve it.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Balakrishnasm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balakrishnasm45@gmail.com) 
