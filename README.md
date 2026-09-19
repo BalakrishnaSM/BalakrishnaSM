@@ -1,4 +1,5 @@
-[![PyPI Downloads](https://img.shields.io/pypi/dm/rag-quantguard)](https://pypistats.org/packages/rag-quantguard)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/rag_quantguard)](https://pypistats.org/packages/rag-quantguard)
+[![PyPI Version](https://img.shields.io/pypi/v/rag-quantguard)](https://pypi.org/project/rag-quantguard/)
 
 
 # 💫 About Me:
