@@ -1,3 +1,6 @@
+[![PyPI Downloads](https://img.shields.io/pypi/dm/rag-quantguard)](https://pypistats.org/packages/rag-quantguard)
+
+
 # 💫 About Me:
 Computer Science graduate (9.67/10 CGPA) with a strong foundation in data structures, algorithms, and
 software engineering, and hands-on experience building end-to-end systems — from hybrid RAG pipelines with
